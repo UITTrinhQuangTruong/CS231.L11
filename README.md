@@ -12,7 +12,7 @@ Người thực hiện:
 * Sử dụng hệ điều hành Ubuntu 18.04
 * Python phiên bản >= 3.6.9
 ### Các bước cài đặt
-Bước 1: `git clone https://github.com/UITTrinhQuangTruong/CS231.L11.git` \
+Bước 1: Download `git clone https://github.com/UITTrinhQuangTruong/CS231.L11.git` \
 Bước 2: Di chuyển đến thư mục vừa git clone `cd CS231.L11` \
 Bước 3: Cài đặt pip 
 `sudo apt install python3-pip` \
